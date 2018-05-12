@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1218
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18872#The-Field-of-Clover
 gutenberg_issued: '2006-07-19'
 gutenberg_type: Text
 identifiers:
